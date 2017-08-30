@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPersonnelRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PersonnelRecord>
+    <NINo>ab123456c</NINo>
+    <Name>Fred Smith</Name>
+    <Salary>28000</Salary>
+    <EmployeeType>Manager</EmployeeType>
+  </PersonnelRecord>
+  <PersonnelRecord>
+    <NINo>de123456f</NINo>
+    <Name>Joe Bloggs</Name>
+    <Salary>30500</Salary>
+    <EmployeeType>Manager</EmployeeType>
+  </PersonnelRecord>
+  <PersonnelRecord>
+    <NINo>gh123456i</NINo>
+    <Name>Harry Smith</Name>
+    <Salary>20000</Salary>
+    <EmployeeType>Administrator</EmployeeType>
+  </PersonnelRecord>
+  <PersonnelRecord>
+    <NINo>jk123456l</NINo>
+    <Name>Tom Smith</Name>
+    <Salary>21000</Salary>
+    <EmployeeType>Administrator</EmployeeType>
+  </PersonnelRecord>
+  <PersonnelRecord>
+    <NINo>mn123456o</NINo>
+    <Name>Manpreet Singh</Name>
+    <Salary>22000</Salary>
+    <EmployeeType>HourlyPaid</EmployeeType>
+  </PersonnelRecord>
+  <PersonnelRecord>
+    <NINo>pq123456r</NINo>
+    <Name>Nasri Kumon</Name>
+    <Salary>19000</Salary>
+    <EmployeeType>HourlyPaid</EmployeeType>
+  </PersonnelRecord>
+  <PersonnelRecord>
+    <NINo>st123456u</NINo>
+    <Name>Alice Smith</Name>
+    <Salary>25000</Salary>
+    <EmployeeType>HourlyPaid</EmployeeType>
+  </PersonnelRecord>
+  <PersonnelRecord>
+    <NINo>vw123456x</NINo>
+    <Name>Alesha Khan</Name>
+    <Salary>20000</Salary>
+    <EmployeeType>HourlyPaid</EmployeeType>
+  </PersonnelRecord>
+  <PersonnelRecord>
+    <NINo>yz123456a</NINo>
+    <Name>Narinder Kumar</Name>
+    <Salary>24500</Salary>
+    <EmployeeType>HourlyPaid</EmployeeType>
+  </PersonnelRecord>
+  <PersonnelRecord>
+    <NINo>yz423457a</NINo>
+    <Name>Nesbit Shepherd</Name>
+    <Salary>2000</Salary>
+    <EmployeeType>Salesperson</EmployeeType>
+  </PersonnelRecord>
+  <PersonnelRecord>
+    <NINo>yz523458a</NINo>
+    <Name>Volunteer Smith</Name>
+    <Salary>2000</Salary>
+    <EmployeeType>Volunteer</EmployeeType>
+  </PersonnelRecord>
+  <PersonnelRecord>
+    <NINo>ab523456c</NINo>
+    <Name>Mohammed Iqbal</Name>
+    <Salary>28000</Salary>
+    <EmployeeType>Manager</EmployeeType>
+  </PersonnelRecord>
+  <PersonnelRecord>
+    <NINo>de123456f</NINo>
+    <Name>Jessica Sherwood</Name>
+    <Salary>29000</Salary>
+    <EmployeeType>Manager</EmployeeType>
+  </PersonnelRecord>
+  <PersonnelRecord>
+    <NINo>gh123456i</NINo>
+    <Name>Jeven Wood</Name>
+    <Salary>20500</Salary>
+    <EmployeeType>Administrator</EmployeeType>
+  </PersonnelRecord>
+  <PersonnelRecord>
+    <NINo>jk623456l</NINo>
+    <Name>Thomas Gill</Name>
+    <Salary>24400</Salary>
+    <EmployeeType>Administrator</EmployeeType>
+  </PersonnelRecord>
+  <PersonnelRecord>
+    <NINo>mn163456o</NINo>
+    <Name>Rajesh Kaur</Name>
+    <Salary>23600</Salary>
+    <EmployeeType>HourlyPaid</EmployeeType>
+  </PersonnelRecord>
+  <PersonnelRecord>
+    <NINo>pq123456r</NINo>
+    <Name>Daniel Cooper</Name>
+    <Salary>18000</Salary>
+    <EmployeeType>HourlyPaid</EmployeeType>
+  </PersonnelRecord>
+  <PersonnelRecord>
+    <NINo>st723456u</NINo>
+    <Name>Deborah Simpson</Name>
+    <Salary>25000</Salary>
+    <EmployeeType>HourlyPaid</EmployeeType>
+  </PersonnelRecord>
+  <PersonnelRecord>
+    <NINo>vw723456x</NINo>
+    <Name>Rupinder Khanum</Name>
+    <Salary>23100</Salary>
+    <EmployeeType>HourlyPaid</EmployeeType>
+  </PersonnelRecord>
+  <PersonnelRecord>
+    <NINo>yz823456a</NINo>
+    <Name>Ben Wilkinson</Name>
+    <Salary>24500</Salary>
+    <EmployeeType>HourlyPaid</EmployeeType>
+  </PersonnelRecord>
+  <PersonnelRecord>
+    <NINo>yz823457a</NINo>
+    <Name>Herbert Smith</Name>
+    <Salary>2000</Salary>
+    <EmployeeType>Salesperson</EmployeeType>
+  </PersonnelRecord>
+  <PersonnelRecord>
+    <NINo>yz1823458a</NINo>
+    <Name>Andy Peters</Name>
+    <Salary>2000</Salary>
+    <EmployeeType>Volunteer</EmployeeType>
+  </PersonnelRecord>
+</ArrayOfPersonnelRecord>
